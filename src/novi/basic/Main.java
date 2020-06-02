@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello Gebruiker");
 
         LoginController loginController = new LoginController();
+
     }
 }
